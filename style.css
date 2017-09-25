@@ -1,0 +1,18 @@
+
+h1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 100;
+    color: #676766;
+    font-size:60px;
+    text-align: center;
+}
+
+
+
+p {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.container {
+	text-align: center;
+}
